@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 </p>
----
 
 ### 🌱 Currently Learning
 
