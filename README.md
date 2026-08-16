@@ -48,12 +48,21 @@
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/ashmit-kumar-sahu-7a2104265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashmit-kumar-sahu-7a2104265/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashmitkumar0007@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_ashmit.30_/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
+  </a>
+</p>
 ---
 
-⭐ **Thanks for stopping by!**
+**Thanks for stopping by!**
