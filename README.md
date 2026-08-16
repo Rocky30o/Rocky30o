@@ -2,32 +2,59 @@
 
 ### 📊 I turn messy data into meaningful insights — and occasionally turn bugs into features. 😄
 
-Data Analytics & Machine Learning enthusiast who enjoys solving problems, exploring data, and building useful things.
+**Data Analytics • Machine Learning • Python • SQL • Power BI**
 
 ---
 
-### 🛠️ Skills
+### 🧰 Tech I Use
 
-🐍 **Python** · 🗃️ **SQL** · 📊 **Power BI**  
-🤖 **Machine Learning** · 📈 **Data Analytics**  
-🐼 **Pandas** · 🔢 **NumPy** · 🚀 **XGBoost**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="45"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🌱 Currently Learning
 
-**Advanced Analytics · Machine Learning · Power BI · Model Deployment**
+📊 **Advanced Data Analytics**  
+🤖 **Machine Learning**  
+📈 **Power BI & Business Intelligence**  
+🚀 **Model Deployment**
 
 ---
 
-### 💭
+### 💭 My Philosophy
 
 > **Learn → Build → Break → Debug → Repeat. 🔄**
 
 ---
 
-### 🤝 Connect With Me
+### ⚡ A Little About Me
 
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+🧠 Curious about data  
+🔍 Love finding patterns  
+💻 Enjoy building things  
+☕ Powered by coffee & debugging
 
-⭐ Thanks for visiting!
+---
+
+### 🤝 Let's Connect
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+⭐ **Thanks for stopping by!**
