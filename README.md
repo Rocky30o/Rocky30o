@@ -63,6 +63,5 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
   </a>
 </p>
----
 
 **Thanks for stopping by!**
