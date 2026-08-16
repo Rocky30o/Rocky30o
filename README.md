@@ -58,7 +58,7 @@
 
 ### 🤝 Let's Connect
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ashmit-kumar-sahu-7a2104265/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
