@@ -41,12 +41,6 @@
 
 ---
 
-### 💭 My Philosophy
-
-> **Learn → Build → Break → Debug → Repeat. 🔄**
-
----
-
 ### ⚡ A Little About Me
 
 🧠 Curious about data  
