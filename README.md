@@ -47,20 +47,28 @@
 ☕ Powered by coffee & debugging
 
 ---
-
 ### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashmit-kumar-sahu-7a2104265/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="45"
+         height="45"
+         alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ashmitkumar0007@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         width="45"
+         height="45"
+         alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_ashmit.30_/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="45"
+         height="45"
+         alt="Instagram"/>
   </a>
 </p>
 
